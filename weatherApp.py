@@ -20,7 +20,7 @@ def display_weather_info(weather_data, city):
         print(f"The wind direction in {city} is: {wind_direction}°")
 
 def main():
-    api_key = '4814f46b75980f6cfe8d0c3e1108ee27'
+    api_key = 'add your personal api key here :)'
 
     while True:
         user_input = input("Enter a city (or type 'quit' to exit): ")
